@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed1c21d0-b01a-41df-b03e-f68287968672" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Ex032 - AnoBissexto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex033 - MaiorMenorValores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex034 - AumentosMultiplos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex035 - AnalisandoTrianguloV1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex036 - AprovandoEmprestimos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex037 - ConversorBasesNumericas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex038 - ComparandoNumeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex039 - AlistamentoMilitar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex040 - MediaAluno.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1T70cnpnrtODXIAnTaxuXYTb8ES" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed1c21d0-b01a-41df-b03e-f68287968672" name="Default Changelist" comment="" />
+      <created>1572795908394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572795908394</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
